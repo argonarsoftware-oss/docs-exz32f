@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-pi77ta.indocuansite.space/sitemap.xml
